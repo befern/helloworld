@@ -10,7 +10,7 @@
     <packaging>jar</packaging>
 
     <name>DropWizard HelloWorld</name>
-    <url>https://github.com/befern/Dropwizard.git</url>
+    <url>https://github.com/befern/helloworld.git</url>
 
     <properties>
         <dropwizard.version>1.0.5</dropwizard.version>
